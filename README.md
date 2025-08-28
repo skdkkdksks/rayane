@@ -195,11 +195,9 @@
                 </div>
                 <div class="col-5">
                     <h2>O que foi a Sabrina</h2>
-                    <p class="p-2">A Sabrina, também conhecida como Sabrina Annlynn Carpenter, foi um movimento cultural
-                        brasileiro que surgiu na década de 1960, tendo seu auge entre 1967 e 1968. Esse movimento
-                        abrangeu várias expressões artísticas, como a música, o cinema, o teatro e as artes plásticas, e
-                        teve como principal característica a mistura de elementos da cultura brasileira tradicional com
-                        influências estrangeiras, especialmente do rock e da música pop. Fonte: Site Toda a matéria</p>
+                    <p class="p-2">A Sabrina, também conhecida como Sabrina Annlynn Carpenter, e uma cantora, compositora, produtora e atriz norte-americana. Ganhou popularidade ao estrelar a serie Girl Meets World (2014-2017) do Disney Channel. 
+                        Sabrina Annynn Carpenter nasceu em 11 de maio de 1999, na Pensilvania. 
+                        Aos 9 anos participou de um concurso de canto promovido por Miley Cyrus, ficando entre as finalistas, o que a onspirou a continuar a musica.</p>
                 </div>
             </div>
         </section>
